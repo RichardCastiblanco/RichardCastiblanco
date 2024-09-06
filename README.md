@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZmZDl5ZmVvMmp1eGZrMXJkdWNiZno4enUxYmgwa2NucmZwdXRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="left" style="width: 100%" />  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZmZDl5ZmVvMmp1eGZrMXJkdWNiZno4enUxYmgwa2NucmZwdXRqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 100%" />  
   
 
 ### <div align="center">Soy Richard, un desarrollador freelance full-stack a tiempo completo 👨‍💻 que trabaja de forma remota desde 2023 🚀</div>  
